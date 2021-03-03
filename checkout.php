@@ -80,7 +80,7 @@ h1, h2, h3, h4, h5, h6 {
 </body>
 
    <footer >
-  <br><br><br><br><br><br><br><br>
+  <br><br><br>
 <div id="footer">
 Copyright &copy; 2021 Book Store
 </div>
